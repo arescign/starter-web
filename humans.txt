@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Annarita Rescigno      annarita.rescigno@capgemini.com      @arecigno
 
 # THANKS
 
